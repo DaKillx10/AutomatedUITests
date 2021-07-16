@@ -1,2 +1,2 @@
 # AutomatedUITests
-automated ui tests with windows application driver
+Automated UI tests with windows application driver
